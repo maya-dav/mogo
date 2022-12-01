@@ -1,0 +1,107 @@
+@media(max-width:575px){
+
+}
+
+
+@media(min-width:576px) and (max-width:767px){
+
+}
+
+@media(max-width:767px){
+  .navbar-brand img {
+    width: 80%;   
+}
+.menu-bg ul{
+  text-align: center;
+}
+.menu-bg ul li a{
+   background-color: red;
+   padding: 20px 0;
+   color: #fff !important;
+}
+.banner_text h1 {
+  font-size: 37px;
+}
+.banner_text p {
+  width: 526px;
+}
+.about_text p {
+  width: 512px;
+  margin-left: 3px;
+}
+.ser_text p {
+  width: 216px !important;
+  justify-content: center;
+}
+.port_main img {
+  width: 225px;
+}
+#portfolio {
+  padding: 36px 0;
+}
+.port_head p {
+  margin-left: -30px;
+  padding-top: 16px;
+}
+.port_img{
+  padding-top: 25px;
+}
+.imag_main img {
+  width: 224px;
+  padding-bottom: 20px;
+}
+.latest {
+  padding: 40px 0;
+}
+.latest_text p {
+  padding-top: 10px;
+}
+.late_btn {
+  padding-top: 5px;
+}
+.fot_img img {
+  width: 102px;
+}
+.foot_img p {
+  padding-top: 13px;
+}
+.btn {
+  margin-top: -20px;
+}
+.foot_padd h5 {
+  padding-top: 14px;
+}
+.foot_text p {
+  margin-top: 10px;
+}
+.foot_paddd h5 {
+  padding-top: 2px; 
+}
+.foot_last_btn a {
+  font-size: 10px;
+}
+.foot_last_btn b {
+  left: 141px;
+}
+.banner {
+  padding-top: 150px;
+  padding-bottom: 168px;
+}
+}
+
+
+@media(min-width:768px) and (max-width:991px){
+  
+}
+
+@media(min-width:992px) and (max-width:1199px){
+  
+}
+
+@media(min-width:1200px) and (max-width:1399px){
+  
+}
+
+@media(min-width:1400px){
+
+}
